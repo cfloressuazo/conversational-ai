@@ -1,0 +1,10 @@
+fastapi==0.95.2
+ipykernel==6.22.0
+jupyter-bokeh==2.0.2
+jupyterlab==3.6.3
+openai==0.27.6
+pandas==2.0.1
+sqlalchemy-orm==1.2.10
+sqlalchemy==2.0.15
+streamlit==1.25.0
+uvicorn<0.22.0,>=0.21.1
